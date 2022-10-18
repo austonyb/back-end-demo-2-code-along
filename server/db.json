@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "The Lion King",
+      "rating": 5,
+      "imageURL" : "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Aladdin",
+      "rating": 4,
+      "imageURL" : "https://imgix.ranker.com/user_node_img/21/417657/original/aladdin-photo-u64?w=650&q=50&fm=pjpg&fit=fill&bg=fff"
+    },
+    {
+      "id": 3,
+      "title": "Aristocats",
+      "rating": 5,
+      "imageURL" : "https://m.media-amazon.com/images/M/MV5BZWYzNWU5ZDYtMDhjYy00NGVmLTliZjgtOTY4ZDJhYzA1NTVhXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_QL75_UY562_CR7,0,380,562_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Beauty and the Beast",
+      "rating": 3,
+      "imageURL" : "https://www.reelviews.net/resources/img/posters/thumbs/beauty_and_the_beast_poster.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Fox and the Hound",
+      "rating": 4,
+      "imageURL" : "https://www.iceposter.com/thumbs/MOV_798aa013_b.jpg"
+    },
+    {
+      "id": 6,
+      "title": "101 Dalmations",
+      "rating": 3,
+      "imageURL" : "https://amc-theatres-res.cloudinary.com/v1579118246/amc-cdn/production/2/movies/9700/9737/Poster/p_800x1200_101_Dalmatians_1961_enca_122614.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tarzan",
+      "rating": 5,
+      "imageURL" : "http://img.lum.dolimg.com/v1/images/open-uri20150422-12561-1kwanc8_d26e6220.jpeg?region=0%2C0%2C1000%2C1314"
+    },
+    {
+      "id": 8,
+      "title": "Hercules",
+      "rating": 3,
+      "imageURL" : "https://i.pinimg.com/originals/55/44/ac/5544acec2135d73e3f1ea8ad3068b609.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Mulan",
+      "rating": 4,
+      "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/513PCT8QM5L._AC_SY445_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Pocahontas",
+      "rating": 3,
+      "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/51XHKA200JL._AC_SY445_.jpg"
+    }
+  ]
